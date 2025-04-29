@@ -5,7 +5,7 @@ A simple web application that determines whether a number entered by the user is
 ![Screenshot of Even-Odd Checker](https://github.com/shindesaloni/Even_Odd_Checker/blob/main/Even_odd.PNG) 
 
 ## 🚀 Live Demo
-[Click here to try it out](https://github.com/shindesaloni/Even_Odd_Checker/blob/main/Even%20or%20Odd%20Checker%20-%20Google%20Chrome%202025-04-28%2014-52-52.mp4) <!-- Update this if you deploy it with GitHub Pages -->
+[Click here to try it out](https://github.com/shindesaloni/Even_Odd_Checker/blob/main/Even%20or%20Odd%20Checker%20-%20Google%20Chrome%202025-04-28%2014-52-52.mp4) 
 
 ## 🛠 Features
 - Input field for number entry
